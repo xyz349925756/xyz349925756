@@ -1,5 +1,5 @@
 
-[![Font](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font&title_color=#f3f3f3)](https://github.com/xyz349925756/font)
+[![Font](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font&title_color=#fd8c73)](https://github.com/xyz349925756/font)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=kubernetes)](https://github.com/xyz349925756/kubernetes)
 
