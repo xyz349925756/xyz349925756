@@ -21,6 +21,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=coding&theme=yeblu " />
 </a>
 
+
+<a href="https://github.com/xyz349925756/free-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=free-api&theme=algolia " />
+</a>
+
 <hr/>
 
 <a href="https://github.com/xyz349925756/font">
