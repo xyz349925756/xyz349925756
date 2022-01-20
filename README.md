@@ -1,7 +1,7 @@
 
 [![Font](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font)](https://github.com/xyz349925756/font)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=kubernetes)](https://github.com/xyz349925756/kubernetes)
 
 [![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=radical)](https://github.com/xyz349925756/kubernetes)
 
