@@ -1,25 +1,27 @@
+[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=vue)](https://github.com/xyz349925756)
+<hr/>
 
-[![Font](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font&icon_color=fd8c73&bg_color=DEG,fd8c73,d0b0ff,adc7b3)](https://github.com/xyz349925756/font)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=kubernetes)](https://github.com/xyz349925756/kubernetes)
-
-对齐 Repo 卡片
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/xyz349925756/kubernetes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=kubernetes&theme=merko" />
 </a>
 
+<a href="https://github.com/xyz349925756/cloudb.web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=cloudb.web&theme=gruvbox" />
+</a>
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=radical)](https://github.com/xyz349925756/kubernetes)
+<a href="https://github.com/xyz349925756/mysql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=mysql&theme=tokyonight" />
+</a>
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=merko)](https://github.com/xyz349925756/cloudb.pub)
+<a href="https://github.com/xyz349925756/cloudb.pub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=cloudb.pub&theme=monokai " />
+</a>
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=gruvbox)](https://github.com/xyz349925756/cloudb.web)
+<hr/>
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=tokyonight)](https://github.com/xyz349925756/mysql)
+<a href="https://github.com/xyz349925756/font">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font&bg_color=86E3CE,D0E6A5,FFDD94,FA897B,CCA8D8" />
+</a>
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=onedark)](https://github.com/xyz349925756/free-api)
 
-[![Kubernetes](https://github-readme-stats.vercel.app/api?username=xyz349925756&count_private=true&show_icons=true&theme=cobalt)](https://github.com/xyz349925756/coding)
+
