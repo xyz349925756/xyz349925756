@@ -1,4 +1,4 @@
-[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=vue)](https://github.com/xyz349925756)
+[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=gruvbox)](https://github.com/xyz349925756)
 <hr/>
 
 <a href="https://github.com/xyz349925756/kubernetes">
@@ -31,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyz349925756)](https://github.com/xyz349925756)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
