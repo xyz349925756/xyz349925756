@@ -17,11 +17,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=cloudb.pub&theme=monokai " />
 </a>
 
+<a href="https://github.com/xyz349925756/coding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=coding&theme=yeblu " />
+</a>
+
 <hr/>
 
 <a href="https://github.com/xyz349925756/font">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=font&bg_color=86E3CE,D0E6A5,FFDD94,FA897B,CCA8D8" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&count_private=true&repo=coding)](https://github.com/xyz349925756/coding)
+<hr/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyz349925756)](https://github.com/xyz349925756)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
