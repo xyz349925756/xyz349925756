@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/xyz349925756/free-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=free-api&theme=algolia&bg_color=ff8177,ff867a,ff8c7f,f99185,cf556c,b12a5b " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=free-api&theme=algolia " />
 </a>
 
 <hr/>
