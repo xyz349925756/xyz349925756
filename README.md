@@ -41,7 +41,4 @@
 国内镜像站：https://xyz349925756.gitee.io/
 
 <hr />
-![image](https://user-images.githubusercontent.com/22998118/150363620-8273938a-f849-4250-9615-39742a78e14d.png)
-<hr />
-![image](https://user-images.githubusercontent.com/22998118/150363779-667f388c-6bd6-49c9-a009-2f7a1ea8417a.png)
-<hr />
+
