@@ -1,3 +1,6 @@
+
+![图](https://github.com/xyz349925756/xyz349925756/blob/main/%E6%B8%90%E5%8F%98%E5%9B%BE.png)
+
 [![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=gruvbox)](https://github.com/xyz349925756)
 <hr/>
 
