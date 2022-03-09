@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=free-api&theme=algolia " />
 </a>
 
-<a href="https://github.com/xyz349925756/free-api">
+<a href="https://github.com/xyz349925756/typora__backup_file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=typora__backup_file&theme=algolia " />
 </a>
 
