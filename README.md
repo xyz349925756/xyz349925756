@@ -34,9 +34,12 @@
 </a>
 
 
-## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
+## 增长量
+
+[![Stargazers over time](https://starchart.cc/xyz349925756/kubernetes.svg)](https://starchart.cc/xyz349925756/kubernetes)
+
+
 
 
 
