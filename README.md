@@ -34,6 +34,13 @@
 </a>
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
+
+
+
+
 <hr/>
 
 <a href="https://github.com/xyz349925756/font">
