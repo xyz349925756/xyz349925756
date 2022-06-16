@@ -1,38 +1,6 @@
 
 ![logo](https://github.com/xyz349925756/xyz349925756/blob/main/123.png)
-
-[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&theme=gruvbox)](https://github.com/xyz349925756)
 <hr/>
-
-<a href="https://github.com/xyz349925756/kubernetes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=kubernetes&theme=merko" />
-</a>
-
-<a href="https://github.com/xyz349925756/cloudb.web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=cloudb.web&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/xyz349925756/mysql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=mysql&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/xyz349925756/cloudb.pub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=cloudb.pub&theme=monokai " />
-</a>
-
-<a href="https://github.com/xyz349925756/coding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=coding&theme=yeblu " />
-</a>
-
-
-<a href="https://github.com/xyz349925756/free-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=free-api&theme=algolia " />
-</a>
-
-<a href="https://github.com/xyz349925756/typora__backup_file">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyz349925756&repo=typora__backup_file&theme=algolia " />
-</a>
-
 
 
 ## 增长量
