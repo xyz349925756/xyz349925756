@@ -18,14 +18,21 @@ search_index 添加了bing AI 和 google bard.这是基于Chat-GPT4的免费对�
 
 > 中国大陆不能访问
 
+百度ai
+
+![image-20230917135253886](.README.assets/image-20230917135253886.png)
 
 
-下面是我自定义的typora主题
 
-![image-20230720163453136](README.assets/image-20230720163453136.png)
+typora__backup_file : 是备份typora主题和安装文件的.
 
-![image-20230720163506137](README.assets/image-20230720163506137.png)
+nginx_autoindex 是自己开发的文件目录样式.
 
-![image-20230720163526521](README.assets/image-20230720163526521.png)
+![image-20230917135555637](.README.assets/image-20230917135555637.png)
 
-目前没有分享该主题的意愿.
+clodub是多年笔记
+
+![image-20230917135728968](.README.assets/image-20230917135728968.png)
+
+![image-20230917135738034](.README.assets/image-20230917135738034.png)
+
