@@ -12,7 +12,7 @@ https://cloudb.pub 是由Typora + Docsify制作而成的。
 
 search_index 添加了bing AI 和 google bard.这是基于Chat-GPT4的免费对话.
 
-![search](.README.assets/search.gif)
+![1](.README.assets/1.gif)
 
 > 全新升级一次输入不同引擎搜索.默认回车是百度搜索.
 
@@ -26,7 +26,12 @@ nginx_autoindex 是自己开发的文件目录样式.
 
 clodub是多年笔记
 
-![image-20230917135728968](.README.assets/image-20230917135728968.png)
+下面是涵盖的知识点
 
 ![image-20230917135738034](.README.assets/image-20230917135738034.png)
 
+![image-20231215110416427](.README.assets/image-20231215110416427.png)
+
+![image-20231215110519308](.README.assets/image-20231215110519308.png)
+
+![image-20231215110543400](.README.assets/image-20231215110543400.png)
