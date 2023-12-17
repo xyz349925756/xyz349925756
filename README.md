@@ -28,10 +28,4 @@ clodub是多年笔记
 
 下面是涵盖的知识点
 
-![image-20230917135738034](.README.assets/image-20230917135738034.png)
 
-![image-20231215110416427](.README.assets/image-20231215110416427.png)
-
-![image-20231215110519308](.README.assets/image-20231215110519308.png)
-
-![image-20231215110543400](.README.assets/image-20231215110543400.png)
