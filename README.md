@@ -12,7 +12,7 @@ https://cloudb.pub 是由Typora + Docsify制作而成的。
 
 search_index 添加了bing AI 和 google bard.这是基于Chat-GPT4的免费对话.
 
-<iframe src="https://cloudb.pub" height="960"></iframe>
+<object type="text/x-scriptlet" data="https://cloudb.pub"   height="960"></object>
 
 > 全新升级一次输入不同引擎搜索.默认回车是百度搜索.
 
