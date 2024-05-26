@@ -2,7 +2,9 @@
 
 个人网站 ：https://cloudb.pub/
 
-<img align="right" width="300"  hight="300" src=".README.assets/dribbble-code.gif" />
+<img align="right" width="300"   src=".README.assets/coding-freak.gif" />
+
+
 
                               .       .
                              / `.   .' " 
