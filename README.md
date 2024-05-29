@@ -31,3 +31,50 @@
 
 
 
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img align="left" width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
+</a>
