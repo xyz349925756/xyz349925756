@@ -1,4 +1,4 @@
-# About Me
+
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-# Soft Tools
+
 
 <p>
 <a href="https://kubernetes.io/" target="_blank">
@@ -119,8 +119,6 @@
 
 
 
-
-<hr>
 
 
 
