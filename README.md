@@ -119,6 +119,5 @@
 
 
 
-> [!tip]
->
-> These software can achieve the automation, monitoring, deployment and other daily needs of Linux in a more dynamic, stable and efficient manner.
+
+
