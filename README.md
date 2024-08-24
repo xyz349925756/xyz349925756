@@ -2,7 +2,7 @@
 
 
 
-个人网站 ：https://cloudb.pub/
+个人网站 ：https://www.cloudb.pub/
 
 <img align="right" width="300"   src=".README.assets/coding-freak.gif" />
 
