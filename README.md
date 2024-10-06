@@ -10,6 +10,9 @@
 - [nginx_autoindex](https://github.com/xyz349925756/nginx_autoindex) 使用 nginx 实现的文件管理器
 - [neat-reader](https://github.com/xyz349925756/neat-reader) emmm，请支持[官方版本](https://www.neat-reader.cn/webapp#/)，这个是我私自提取的本地版。主要是用来翻译国外电子书使用的
 - [sub-api](https://github.com/xyz349925756/sub-api) 我自己维护的cf优选ip
+- [kubernetes](https://github.com/xyz349925756/kubernetes) 一个自动化拉取 k8s images的工具。避免image被植入挖矿木马
+- [serv00-hysteria2](https://github.com/xyz349925756/serv00-hysteria2) 原创 serv00 免费vps 代理搭建。 
+- [search_index](https://github.com/xyz349925756/search_index) 集合搜索页面 serv00 部署可以用来作为伪装。可以下载到本地使用。
 
 
 
@@ -62,9 +65,6 @@
 <a href="https://nginx.org/" target="_blank">
 <img align="left" width="40"   src=".README.assets/svg/file_type_nginx_icon_130305.svg" />
 </a>
-<a href="https://keepalived.org/" target="_blank">
-<img align="left" width="40"   src="https://keepalived.org/images/Keepalived-LOGO.png" />
-</a>
 <a href="https://www.kernel.org/" target="_blank">
 <img align="left" width="40"   src=".README.assets/svg/linux_original_logo_icon_146433.svg" />
 </a>
@@ -100,6 +100,9 @@
 </a>
 <a href="https://openwrt.org/" target="_blank">
 <img align="left" width="40"   src=".README.assets/svg/openwrt_logo_icon_248288.svg" />
+</a>
+<a href="https://keepalived.org/" target="_blank">
+<img align="left" width="40"   src="https://keepalived.org/images/Keepalived-LOGO.png" />
 </a>
 </p>
 
