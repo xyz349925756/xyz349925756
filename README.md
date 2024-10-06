@@ -6,22 +6,12 @@
 
 <img align="right" width="300"   src=".README.assets/coding-freak.gif" />
 
-```shell
-                          .       .
-                         / `.   .' " 
-                 .---.  <    > <    >  .---.
-                 |    \  \ - ~ ~ - /  /    |
-     _____          ..-~             ~-..-~
-    |     |   \~~~\.'                    `./~~~/
-   ---------   \__/                        \__/
-  .'  O    \     /               /       \  " 
- (_____,    `._.'               |         }  \/~~~/
-  `----.          /       }     |        /    \__/
-        `-.      |       /      |       /      `. ,~~|
-            ~-.__|      /_ - ~ ^|      /- _      `..-'   
-                 |     /        |     /     ~-.     `-. _  _  _
-                 |_____|        |_____|         ~ - . _ _ _ _ _>
-```
+- [cloudb](https://github.com/xyz349925756/cloudb) 我的笔记网站，记录了一些 devops 相关的内容
+- [nginx_autoindex](https://github.com/xyz349925756/nginx_autoindex) 使用 nginx 实现的文件管理器
+- [neat-reader](https://github.com/xyz349925756/neat-reader) emmm，请支持[官方版本](https://www.neat-reader.cn/webapp#/)，这个是我私自提取的本地版。主要是用来翻译国外电子书使用的
+- [sub-api](https://github.com/xyz349925756/sub-api) 我自己维护的cf优选ip
+
+![Desktop-hero_jan](./.README.assets/Desktop-hero_jan.jpg)
 
 
 
