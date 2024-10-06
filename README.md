@@ -11,8 +11,6 @@
 - [neat-reader](https://github.com/xyz349925756/neat-reader) emmm，请支持[官方版本](https://www.neat-reader.cn/webapp#/)，这个是我私自提取的本地版。主要是用来翻译国外电子书使用的
 - [sub-api](https://github.com/xyz349925756/sub-api) 我自己维护的cf优选ip
 
-![Desktop-hero_jan](./.README.assets/Desktop-hero_jan.jpg)
-
 
 
 ---
