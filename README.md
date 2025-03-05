@@ -34,13 +34,13 @@
 ## 🛠️ Tech Stack & Tools
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; border: none; outline: none;">
-<a href="https://kubernetes.io/" style="text-decoration: none !important;" target="_blank">
+<a href="https://kubernetes.io/" style="text-decoration: none;" target="_blank">
 <img  width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
 </a>
-<a href="https://www.mysql.com/"  style="text-decoration: none !important;" target="_blank">
+<a href="https://www.mysql.com/"  style="text-decoration: none;" target="_blank">
 <img  width="40"   src=".README.assets/svg/mysql_original_wordmark_logo_icon_146417.svg" />
 </a>
-<a href="https://www.elastic.co/cn/"  style="text-decoration: none !important;" target="_blank">
+<a href="https://www.elastic.co/cn/"  style="text-decoration: none;" target="_blank">
 <img  width="40"   src=".README.assets/svg/file_type_elastic_icon_130625.svg" />
 </a>
 <a href="https://redis.io/"  style="text-decoration: none !important;" target="_blank">
