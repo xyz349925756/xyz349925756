@@ -33,4 +33,83 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">   <img src="https://img.shields.io/badge/Kubernetes-v1.28-blue?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>   <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>     <img src="https://img.shields.io/badge/Redis-7.0-red?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"/>   <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>   <img src="https://img.shields.io/badge/Docker-latest-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>   <img src="https://img.shields.io/badge/MongoDB-latest-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>   <img src="https://img.shields.io/badge/Bootstrap-v5-purple?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>   <img src="https://img.shields.io/badge/HTML-v5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge"/>   <img src="https://img.shields.io/badge/CSS-v3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge"/>     <img src="https://img.shields.io/badge/Jenkins-latest-orange?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>     <img src="https://img.shields.io/badge/Grafana-latest-orange?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Badge"/>     <img src="https://img.shields.io/badge/Nginx-latest-green?style=flat-square&logo=nginx&logoColor=white" alt="Nginx Badge"/>     <img src="https://img.shields.io/badge/Linux-latest-black?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge"/>     <img src="https://img.shields.io/badge/VMware-latest-blue?style=flat-square&logo=vmware&logoColor=white" alt="VMware Badge"/>     <img src="https://img.shields.io/badge/Citrix-latest-blue?style=flat-square&logo=citrix&logoColor=white" alt="Citrix Badge"/>     <img src="https://img.shields.io/badge/KVM-latest-red?style=flat-square&logo=redhat&logoColor=white" alt="KVM Badge"/>     <img src="https://img.shields.io/badge/Memcached-latest-blue?style=flat-square&logo=memcached&logoColor=white" alt="Memcached Badge"/>     <img src="https://img.shields.io/badge/Google-latest-blue?style=flat-square&logo=google&logoColor=white" alt="Google Badge"/>     <img src="https://img.shields.io/badge/GitLab-latest-orange?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Badge"/>     <img src="https://img.shields.io/badge/Zabbix-latest-red?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix Badge"/>     <img src="https://img.shields.io/badge/Prometheus-latest-orange?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>     <img src="https://img.shields.io/badge/GlusterFS-latest-orange?style=flat-square&logo=glusterfs&logoColor=white" alt="GlusterFS Badge"/>     <img src="https://img.shields.io/badge/Ceph-latest-blue?style=flat-square&logo=ceph&logoColor=white" alt="Ceph Badge"/>     <img src="https://img.shields.io/badge/OpenWRT-latest-orange?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWRT Badge"/>     <img src="https://img.shields.io/badge/Keepalived-latest-green?style=flat-square&logo=keepalived&logoColor=white" alt="Keepalived Badge"/> </div>
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-v1.28-blue?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-7.0-red?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-latest-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-latest-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-v5-purple?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-v5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-v3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-latest-orange?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-latest-orange?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-latest-green?style=flat-square&logo=nginx&logoColor=white" alt="Nginx Badge"/>
+  </a>
+  <a href="https://www.kernel.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-latest-black?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge"/>
+  </a>
+  <a href="https://www.vmware.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VMware-latest-blue?style=flat-square&logo=vmware&logoColor=white" alt="VMware Badge"/>
+  </a>
+  <a href="https://www.citrix.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Citrix-latest-blue?style=flat-square&logo=citrix&logoColor=white" alt="Citrix Badge"/>
+  </a>
+  <a href="https://www.linux-kvm.org/" target="_blank">
+    <img src="https://img.shields.io/badge/KVM-latest-red?style=flat-square&logo=redhat&logoColor=white" alt="KVM Badge"/>
+  </a>
+  <a href="https://www.memcached.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Memcached-latest-blue?style=flat-square&logo=memcached&logoColor=white" alt="Memcached Badge"/>
+  </a>
+  <a href="https://www.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google-latest-blue?style=flat-square&logo=google&logoColor=white" alt="Google Badge"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-latest-orange?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+  </a>
+  <a href="https://www.zabbix.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Zabbix-latest-red?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix Badge"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-latest-orange?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
+  </a>
+  <a href="https://www.gluster.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GlusterFS-latest-orange?style=flat-square&logo=glusterfs&logoColor=white" alt="GlusterFS Badge"/>
+  </a>
+  <a href="https://ceph.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Ceph-latest-blue?style=flat-square&logo=ceph&logoColor=white" alt="Ceph Badge"/>
+  </a>
+  <a href="https://openwrt.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenWRT-latest-orange?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWRT Badge"/>
+  </a>
+  <a href="https://www.keepalived.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Keepalived-latest-green?style=flat-square&logo=keepalived&logoColor=white" alt="Keepalived Badge"/>
+  </a>
+</div>
