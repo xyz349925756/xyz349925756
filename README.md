@@ -110,7 +110,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.liuli.lol?user=xyz349925756&theme=dark&hide_border=true)
+![GitHub Streak](streak-stats.svg)
 
 
 
