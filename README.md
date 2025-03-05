@@ -64,3 +64,38 @@
     <img src="https://img.shields.io/badge/Bash-latest-green?style=flat-square&logo=Bash&logoColor=white" alt="Bash Badge"/>
 </div>
 
+
+### 💥 官网
+
+| 技术栈名称    | 技术栈特点                                                | 官方网站                                                     |
+| ------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| Kubernetes    | 容器编排平台，用于自动化部署、扩展和管理容器化应用程序。  | [https://kubernetes.io/](https://kubernetes.io/)             |
+| MySQL         | 关系型数据库管理系统，广泛用于Web应用程序。               | [https://www.mysql.com/](https://www.mysql.com/)             |
+| Elasticsearch | 分布式搜索和分析引擎，用于日志分析、全文搜索等。          | [https://www.elastic.co/cn/](https://www.elastic.co/cn/)     |
+| Redis         | 内存数据库，常用作缓存、消息队列等。                      | [https://redis.io/](https://redis.io/)                       |
+| Python        | 解释型高级编程语言，广泛用于Web开发、数据科学等。         | [https://www.python.org/](https://www.python.org/)           |
+| Docker        | 容器化平台，用于打包、分发和运行应用程序。                | [https://www.docker.com/](https://www.docker.com/)           |
+| GitHub        | 代码托管平台，用于版本控制和协作开发。                    | [https://github.com/](https://github.com/)                   |
+| MongoDB       | 文档数据库，用于存储非结构化数据。                        | [https://www.mongodb.com/](https://www.mongodb.com/)         |
+| Bootstrap     | 前端框架，用于快速构建响应式网页。                        | [https://getbootstrap.com/](https://www.google.com/url?sa=E&source=gmail&q=https://getbootstrap.com/) |
+| HTML          | 超文本标记语言，用于创建网页结构。                        | [https://www.w3.org/html/](https://www.google.com/url?sa=E&source=gmail&q=https://www.w3.org/html/) |
+| CSS           | 层叠样式表，用于控制网页样式。                            | [https://www.w3.org/Style/CSS/](https://www.google.com/url?sa=E&source=gmail&q=https://www.w3.org/Style/CSS/) |
+| Jenkins       | 持续集成/持续交付工具，用于自动化构建、测试和部署。       | [https://www.jenkins.io/](https://www.jenkins.io/)           |
+| Grafana       | 数据可视化和监控工具，用于创建仪表盘和图表。              | [https://grafana.com/](https://grafana.com/)                 |
+| Nginx         | 高性能Web服务器和反向代理服务器。                         | [https://nginx.org/](https://nginx.org/)                     |
+| Linux         | 开源操作系统内核，广泛用于服务器和嵌入式设备。            | [https://www.kernel.org/](https://www.kernel.org/)           |
+| VMware        | 虚拟化平台，用于创建和管理虚拟机。                        | [https://www.vmware.com/](https://www.vmware.com/)           |
+| Citrix        | 虚拟化和远程访问解决方案提供商。                          | [https://www.citrix.com/](https://www.citrix.com/)           |
+| KVM           | 基于 Linux 内核的虚拟化技术。                             | [https://www.linux-kvm.org/](https://www.google.com/url?sa=E&source=gmail&q=https://www.linux-kvm.org/) |
+| Memcached     | 高性能分布式内存缓存系统。                                | [https://memcached.org/](https://memcached.org/)             |
+| Google        | 搜索引擎和其他互联网服务的提供商。                        | [https://www.google.com/](https://www.google.com/)           |
+| GitLab        | 代码托管平台，类似于 GitHub，提供版本控制、CI/CD 等功能。 | [https://about.gitlab.com/](https://www.google.com/url?sa=E&source=gmail&q=https://about.gitlab.com/) |
+| Zabbix        | 开源监控系统，用于监控网络、服务器和应用程序。            | [https://www.zabbix.com/](https://www.zabbix.com/)           |
+| Prometheus    | 开源监控系统，专注于时间序列数据。                        | [https://prometheus.io/](https://prometheus.io/)             |
+| GlusterFS     | 分布式文件系统，用于存储和管理大规模数据。                | [https://www.gluster.org/](https://www.gluster.org/)         |
+| Ceph          | 分布式存储系统，提供对象存储、块存储和文件系统。          | [https://ceph.io/](https://www.google.com/url?sa=E&source=gmail&q=https://ceph.io/) |
+| OpenWRT       | 基于 Linux 的嵌入式设备操作系统。                         | [https://openwrt.org/](https://openwrt.org/)                 |
+| Keepalived    | 高可用性解决方案，用于实现服务器故障转移。                | [https://www.keepalived.org/](https://www.keepalived.org/)   |
+| Go            | 静态类型、编译型编程语言，适用于构建高性能应用程序。      | [https://go.dev/](https://www.google.com/url?sa=E&source=gmail&q=https://go.dev/) |
+| Shell         | 命令行解释器，用于与操作系统交互。                        | [https://www.gnu.org/software/bash/](https://www.google.com/url?sa=E&source=gmail&q=https://www.gnu.org/software/bash/) |
+
