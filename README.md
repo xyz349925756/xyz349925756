@@ -102,7 +102,7 @@
 <img align="left" width="40"   src=".README.assets/svg/openwrt_logo_icon_248288.svg" />
 </a>
 <a href="https://keepalived.org/" target="_blank">
-<img align="left" width="40"  src="https://www.keepalived.org/release-notes/_static/Keepalived-LOGO.png" />
+<img style="float: left;"  width="40"  src="https://www.keepalived.org/release-notes/_static/Keepalived-LOGO.png" />
 </a>
 </p>
 </div>
