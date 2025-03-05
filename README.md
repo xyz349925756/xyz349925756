@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div style=" align-items: center;flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; align-items: center;flex-wrap: wrap; gap: 10px;">
 <a href="https://kubernetes.io/"  style="text-decoration: none !important;" target="_blank">
 <img  width="40" src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
 </a>
