@@ -34,10 +34,9 @@
 ## 🛠️ Tech Stack & Tools
 
 <div style="display: flex; align-items: center;flex-wrap: wrap; gap: 10px;">
-<a href="https://kubernetes.io/"  style="text-decoration: none !important;" target="_blank">
+<a href="https://kubernetes.io/"  target="_blank" style="display: block !important; text-decoration: none !important;">
 <img  width="40" src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
-</a>
-<a href="https://www.mysql.com/" style="text-decoration: none !important;"  target="_blank">
+</a><a href="https://www.mysql.com/"   target="_blank" style="display: block !important; text-decoration: none !important;">
 <img  width="40" src=".README.assets/svg/mysql_original_wordmark_logo_icon_146417.svg" />
 </a>
 <a href="https://www.elastic.co/cn/"   target="_blank">
@@ -116,7 +115,5 @@
 <img style="float: left;"  width="40"  src="https://www.keepalived.org/release-notes/_static/Keepalived-LOGO.png" />
 </a>
 </div>
-
-
 
 
