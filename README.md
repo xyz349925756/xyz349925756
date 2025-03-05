@@ -5,7 +5,7 @@
 🚀 **个人网站**: [CloudB](https://www.cloudb.pub/)
 ## 📌 About Me
 <img align="right" width="300" src=".README.assets/coding-freak.gif" />
- **我是一个 DevOps 工程师，热衷于自动化运维、云计算、Kubernetes 及各类后端技术。**
+ 我是一个 DevOps 工程师，热衷于自动化运维、云计算、Kubernetes 及各类后端技术。
 
 - 📖 记录 DevOps 相关知识，分享技术经验。
 - 🛠️ 研究各种自动化运维工具，提高工作效率。
@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; border: none; outline: none;">
 <a href="https://kubernetes.io/" target="_blank">
 <img  width="40"   src=".README.assets/svg/kubernetes_logo_icon_168359.svg" />
 </a>
