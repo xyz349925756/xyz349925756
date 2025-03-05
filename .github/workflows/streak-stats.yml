@@ -1,4 +1,4 @@
-name: 更新 GitHub Streak 统计
+name: GitHub Streak
 
 on:
   schedule:
@@ -12,9 +12,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+
       - name: Fetch Streak Stats
         run: |
           curl -o streak-stats.svg "https://streak-stats.demolab.com/?user=xyz349925756&theme=default"
+
 
       - name: Commit and Push
         run: |
