@@ -110,10 +110,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xyz349925756&theme=light&hide_border=true)
-
-
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyz349925756&theme=lighthub)
 
 ## 📊 GitHub Metrics
@@ -121,7 +117,7 @@
 
 
 
-## 📫 访客
+## 🛬 访客
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=xyz349925756&label=Visitors&color=blue&style=flat)
 
