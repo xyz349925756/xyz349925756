@@ -5,11 +5,13 @@
 🚀 **个人网站**: [CloudB](https://www.cloudb.pub/)
 ## 📌 About Me
 <img align="right" width="300" src=".README.assets/coding-freak.gif" />
- 我是一个 DevOps 工程师，热衷于自动化运维、云计算、Kubernetes 及各类后端技术。
+ 我是一名 DevOps 工程师，热衷于自动化运维、云计算、Kubernetes 及各类后端技术。
 
 - 📖 记录 DevOps 相关知识，分享技术经验。
 - 🛠️ 研究各种自动化运维工具，提高工作效率。
-- 🔍 关注 Cloud、K8s、网络安全等方向。
+- 📚 维护个人笔记站点：[CloudB](https://www.cloudb.pub/index1.html)  
+- 🎯 目前在研究 云服务器优化、自动化运维、边缘计算。
+- 💻 专注于 Kubernetes, Docker, CI/CD, Linux, 云原生。
 
 
 
@@ -67,7 +69,7 @@
 
 
 
-### 💥 技术栈官网
+## 💥 技术栈官网
 
 | 技术栈名称    | 技术栈特点                                                | 官方网站                                                     |
 | ------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -100,4 +102,22 @@
 | Keepalived    | 高可用性解决方案，用于实现服务器故障转移。                | [https://www.keepalived.org/](https://www.keepalived.org/)   |
 | Go            | 静态类型、编译型编程语言，适用于构建高性能应用程序。      | [https://go.dev/](https://www.google.com/url?sa=E&source=gmail&q=https://go.dev/) |
 | Shell         | 命令行解释器，用于与操作系统交互。                        | [https://www.gnu.org/software/bash/](https://www.google.com/url?sa=E&source=gmail&q=https://www.gnu.org/software/bash/) |
+
+
+
+## 📊 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&count_private=true&theme=light)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xyz349925756&theme=dark&hide_border=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyz349925756&theme=darkhub)
+
+## 📊 GitHub Metrics
+![Metrics](https://github.com/xyz349925756/xyz349925756/blob/main/github-metrics.svg)
+
+
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=xyz349925756&label=Visitors&color=blue&style=flat)
 
