@@ -60,5 +60,7 @@
     <img src="https://img.shields.io/badge/Ceph-latest-blue?style=flat-square&logo=ceph&logoColor=white" alt="Ceph Badge"/>
     <img src="https://img.shields.io/badge/OpenWRT-latest-orange?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWRT Badge"/>
     <img src="https://img.shields.io/badge/Keepalived-latest-green?style=flat-square&logo=keepalived&logoColor=white" alt="Keepalived Badge"/>
+    <img src="https://img.shields.io/badge/Go-latest-green?style=flat-square&logo=Go&logoColor=white" alt="Go Badge"/>
+    <img src="https://img.shields.io/badge/Bash-latest-green?style=flat-square&logo=Bash&logoColor=white" alt="Bash Badge"/>
 </div>
 
