@@ -108,9 +108,9 @@
 ## 📊 GitHub 统计
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&count_private=true&theme=light)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xyz349925756&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=xyz349925756&theme=light&hide_border=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyz349925756&theme=darkhub)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyz349925756&theme=lighthub)
 
 ## 📊 GitHub Metrics
 ![Metrics](https://github.com/xyz349925756/xyz349925756/blob/main/github-metrics.svg)
