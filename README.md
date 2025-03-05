@@ -33,6 +33,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-v1.28-blue?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
