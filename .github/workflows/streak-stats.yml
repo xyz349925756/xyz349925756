@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Streak Stats
         run: |
-          curl -o streak-stats.svg "https://streak-stats.demolab.com?user=xyz349925756&theme=dark&hide_border=true"
+          curl -o streak-stats.svg "https://streak-stats.demolab.com/?user=xyz349925756&theme=default"
 
       - name: Commit and Push
         run: |
