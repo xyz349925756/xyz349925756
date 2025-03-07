@@ -5,7 +5,9 @@
 🚀 **个人网站**: [CloudB](https://www.cloudb.pub/)
 ## 📌 About Me
 <img align="right" width="300" src=".README.assets/coding-freak.gif" />
- 我是一名 DevOps 工程师，热衷于自动化运维、云计算、Kubernetes 及各类后端技术。
+ I am a DevOps engineer and I am passionate about automation operation and maintenance, cloud computing, Kubernetes and various backend technologies.
+
+
 
 - 📖 记录 DevOps 相关知识，分享技术经验。
 - 🛠️ 研究各种自动化运维工具，提高工作效率。
@@ -69,7 +71,7 @@
 
 
 
-## 💥 技术栈官网
+## 💥 Technology Stack Official Website
 
 | 技术栈名称    | 技术栈特点                                                | 官方网站                                                     |
 | ------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -117,7 +119,7 @@
 
 
 
-## 🛬 访客
+## 🛬 Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=xyz349925756&label=Visitors&color=blue&style=flat)
 
