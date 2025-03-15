@@ -105,15 +105,6 @@
 | Go            | 静态类型、编译型编程语言，适用于构建高性能应用程序。      | [https://go.dev/](https://www.google.com/url?sa=E&source=gmail&q=https://go.dev/) |
 | Shell         | 命令行解释器，用于与操作系统交互。                        | [https://www.gnu.org/software/bash/](https://www.google.com/url?sa=E&source=gmail&q=https://www.gnu.org/software/bash/) |
 
-
-
-## 📊 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz349925756&show_icons=true&count_private=true&theme=light)
-
-![GitHub Streak](streak-stats.svg)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xyz349925756&theme=lighthub)
-
 ## 📊 GitHub Metrics
 ![Metrics](https://github.com/xyz349925756/xyz349925756/blob/main/github-metrics.svg)
 
