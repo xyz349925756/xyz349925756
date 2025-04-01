@@ -23,11 +23,13 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [**CloudB 笔记**](https://github.com/xyz349925756/cloudb)    | 我的笔记网站，记录 DevOps 相关内容                           |
 | [**nginx_autoindex**](https://github.com/xyz349925756/nginx_autoindex) | 使用 Nginx 实现的文件管理器                                  |
-| [**neat-reader（私有版）**](https://github.com/xyz349925756/neat-reader) | 本地提取版 Neat Reader，用于翻译国外电子书 🔗[官方版本](https://www.neat-reader.cn/webapp#/) |
+| [**neat-reader（私有版）**](https://github.com/xyz349925756/neat-reader) | 本地提取版 Neat Reader，用于阅读国外电子书 🔗[官方版本](https://www.neat-reader.cn/webapp#/) |
 | [**sub-api**](https://github.com/xyz349925756/sub-api)       | 自维护 CF 优选 IP                                            |
 | [**Kubernetes Image Puller**](https://github.com/xyz349925756/kubernetes) | 自动化拉取 K8s 镜像，防止恶意挖矿                            |
 | [**serv00-hysteria2**](https://github.com/xyz349925756/serv00-hysteria2) | 免费 VPS 代理搭建                                            |
 | [**search_index**](https://github.com/xyz349925756/search_index) | 集合搜索页面，可用于伪装或本地使用                           |
+| [**Typora-MID**](https://github.com/xyz349925756/Typora-Mid) | Typora Theme                                                 |
+| [**Cherry-studio-Theme**](https://github.com/xyz349925756/cherry-studio-theme) | Cherry-Studio theme                                          |
 
 
 
