@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My GitHub Profile!
 
-🚀 **个人网站**: [CloudB](https://www.cloudb.pub/)
+🚀 **个人网站**: [CloudB](https://www.349925756.xyz)
 ## 📌 About Me
 <img align="right" width="300" src=".README.assets/coding-freak.gif" />
  I am a DevOps engineer and I am passionate about automation operation and maintenance, cloud computing, Kubernetes and various backend technologies.
@@ -11,7 +11,7 @@
 
 - 📖 记录 DevOps 相关知识，分享技术经验。
 - 🛠️ 研究各种自动化运维工具，提高工作效率。
-- 📚 维护个人笔记站点：[CloudB](https://www.cloudb.pub/index1.html)  
+- 📚 维护个人笔记站点：[CloudB](https://www.349925756.xyz/index1.html)  
 - 🎯 目前在研究 云服务器优化、自动化运维、边缘计算。
 - 💻 专注于 Kubernetes, Docker, CI/CD, Linux, 云原生。
 
